@@ -1,0 +1,40 @@
+{
+  "name": "dynamic-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/dist/LoginForm.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "firebase": "^10.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.51.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "build": "babel src -d dist",
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashikaaa-25/dynamic-login-form.git"
+  },
+  "author": "Kashika Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kashikaaa-25/dynamic-login-form/issues"
+  },
+  "homepage": "https://github.com/Kashikaaa-25/dynamic-login-form#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3",
+    "tailwindcss": "^3.4.1"
+  }
+}
