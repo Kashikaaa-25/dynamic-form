@@ -48,15 +48,13 @@ Additionally, ensure you have the following dependencies installed:
 
 1.  Import the necessary components and functions:
 
-javascriptCopy code
+javascript code
 
-    `import React from "react";
+    import React from "react";
     import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
     import Login from "dynamic-form";
-    import createDynamicSignUpForm from "dynamic-form"; // Import the dynamically generated signup form` 
+    import createDynamicSignUpForm from "dynamic-form";
 
-2.  Set up routes in your `App.js` or equivalent:
-`
     const App = () => {
       return (
         <>
