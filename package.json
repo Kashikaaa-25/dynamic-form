@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kashikaaa-25/dynamic-login-form.git"
+    "url": "git+https://github.com/Kashikaaa-25/dynamic-form"
   },
   "author": "Kashika Garg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kashikaaa-25/dynamic-login-form/issues"
+    "url": "https://github.com/Kashikaaa-25/dynamic-form/issues"
   },
-  "homepage": "https://github.com/Kashikaaa-25/dynamic-login-form#readme",
+  "homepage": "https://github.com/Kashikaaa-25/dynamic-form#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.24.0",
